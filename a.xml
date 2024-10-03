@@ -18,11 +18,4 @@
         <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
     </app>
     
-    <app>
-        <name>App 4</name>
-        <iconUrl>https://example.com/icons/app4.png</iconUrl>
-        <downloadUrl>https://example.com/downloads/app4.apk</downloadUrl>
-    </app>
-    
-    <!-- يمكنك إضافة المزيد من التطبيقات هنا -->
 </appstore>
