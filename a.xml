@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appstore>
     <app>
-        <name>App 1</name>
-        <iconUrl>https://example.com/icons/app1.png</iconUrl>
-        <downloadUrl>https://example.com/downloads/app1.apk</downloadUrl>
+        <name>firefox</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/aa.apk</downloadUrl>
     </app>
     
     <app>
