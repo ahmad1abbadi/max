@@ -1,1 +1,28 @@
-00
+<?xml version="1.0" encoding="UTF-8"?>
+<appstore>
+    <app>
+        <name>App 1</name>
+        <iconUrl>https://example.com/icons/app1.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app1.apk</downloadUrl>
+    </app>
+    
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://example.com/icons/app2.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app2.apk</downloadUrl>
+    </app>
+    
+    <app>
+        <name>App 3</name>
+        <iconUrl>https://example.com/icons/app3.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
+    </app>
+    
+    <app>
+        <name>App 4</name>
+        <iconUrl>https://example.com/icons/app4.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app4.apk</downloadUrl>
+    </app>
+    
+    <!-- يمكنك إضافة المزيد من التطبيقات هنا -->
+</appstore>
