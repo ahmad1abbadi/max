@@ -1,59 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<items>
+<packages>
     <wine>
-        <item>
-            <name>Wine Application 1</name>
-            <url>https://example.com/wine1.apk</url>
-        </item>
-        <item>
-            <name>Wine Application 2</name>
-            <url>https://example.com/wine2.apk</url>
-        </item>
-        <item>
-            <name>Wine Application 3</name>
-            <url>https://example.com/wine3.apk</url>
-        </item>
+        <name>Wine App 1</name>
+        <icon>https://example.com/icons/wine1.png</icon>
+        <url>https://example.com/downloads/wine1.apk</url>
     </wine>
+    <wine>
+        <name>Wine App 2</name>
+        <icon>https://example.com/icons/wine2.png</icon>
+        <url>https://example.com/downloads/wine2.apk</url>
+    </wine>
+    
     <box>
-        <item>
-            <name>Box Application 1</name>
-            <url>https://example.com/box1.apk</url>
-        </item>
-        <item>
-            <name>Box Application 2</name>
-            <url>https://example.com/box2.apk</url>
-        </item>
-        <item>
-            <name>Box Application 3</name>
-            <url>https://example.com/box3.apk</url>
-        </item>
+        <name>Box App 1</name>
+        <icon>https://example.com/icons/box1.png</icon>
+        <url>https://example.com/downloads/box1.apk</url>
     </box>
+    <box>
+        <name>Box App 2</name>
+        <icon>https://example.com/icons/box2.png</icon>
+        <url>https://example.com/downloads/box2.apk</url>
+    </box>
+    
     <dxvk>
-        <item>
-            <name>DXVK Application 1</name>
-            <url>https://example.com/dxvk1.apk</url>
-        </item>
-        <item>
-            <name>DXVK Application 2</name>
-            <url>https://example.com/dxvk2.apk</url>
-        </item>
-        <item>
-            <name>DXVK Application 3</name>
-            <url>https://example.com/dxvk3.apk</url>
-        </item>
+        <name>DXVK App 1</name>
+        <icon>https://example.com/icons/dxvk1.png</icon>
+        <url>https://example.com/downloads/dxvk1.apk</url>
     </dxvk>
+    <dxvk>
+        <name>DXVK App 2</name>
+        <icon>https://example.com/icons/dxvk2.png</icon>
+        <url>https://example.com/downloads/dxvk2.apk</url>
+    </dxvk>
+    
     <turnip>
-        <item>
-            <name>Turnip Application 1</name>
-            <url>https://example.com/turnip1.apk</url>
-        </item>
-        <item>
-            <name>Turnip Application 2</name>
-            <url>https://example.com/turnip2.apk</url>
-        </item>
-        <item>
-            <name>Turnip Application 3</name>
-            <url>https://example.com/turnip3.apk</url>
-        </item>
+        <name>Turnip App 1</name>
+        <icon>https://example.com/icons/turnip1.png</icon>
+        <url>https://example.com/downloads/turnip1.apk</url>
     </turnip>
-</items>
+    <turnip>
+        <name>Turnip App 2</name>
+        <icon>https://example.com/icons/turnip2.png</icon>
+        <url>https://example.com/downloads/turnip2.apk</url>
+    </turnip>
+</packages>
