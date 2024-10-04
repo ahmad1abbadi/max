@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <wine>
+        <item>
+            <name>Wine Application 1</name>
+            <url>https://example.com/wine1.apk</url>
+        </item>
+        <item>
+            <name>Wine Application 2</name>
+            <url>https://example.com/wine2.apk</url>
+        </item>
+        <item>
+            <name>Wine Application 3</name>
+            <url>https://example.com/wine3.apk</url>
+        </item>
+    </wine>
+    <box>
+        <item>
+            <name>Box Application 1</name>
+            <url>https://example.com/box1.apk</url>
+        </item>
+        <item>
+            <name>Box Application 2</name>
+            <url>https://example.com/box2.apk</url>
+        </item>
+        <item>
+            <name>Box Application 3</name>
+            <url>https://example.com/box3.apk</url>
+        </item>
+    </box>
+    <dxvk>
+        <item>
+            <name>DXVK Application 1</name>
+            <url>https://example.com/dxvk1.apk</url>
+        </item>
+        <item>
+            <name>DXVK Application 2</name>
+            <url>https://example.com/dxvk2.apk</url>
+        </item>
+        <item>
+            <name>DXVK Application 3</name>
+            <url>https://example.com/dxvk3.apk</url>
+        </item>
+    </dxvk>
+    <turnip>
+        <item>
+            <name>Turnip Application 1</name>
+            <url>https://example.com/turnip1.apk</url>
+        </item>
+        <item>
+            <name>Turnip Application 2</name>
+            <url>https://example.com/turnip2.apk</url>
+        </item>
+        <item>
+            <name>Turnip Application 3</name>
+            <url>https://example.com/turnip3.apk</url>
+        </item>
+    </turnip>
+</items>
