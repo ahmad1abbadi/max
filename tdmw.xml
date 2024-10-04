@@ -1,45 +1,50 @@
-<packages>
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+    <!-- قائمة wine -->
     <wine>
         <name>Wine App 1</name>
         <icon>https://example.com/icons/wine1.png</icon>
-        <url>https://example.com/downloads/wine1.apk</url>
+        <url>https://example.com/wine1</url>
     </wine>
     <wine>
         <name>Wine App 2</name>
         <icon>https://example.com/icons/wine2.png</icon>
-        <url>https://example.com/downloads/wine2.apk</url>
+        <url>https://example.com/wine2</url>
     </wine>
-    
-    <box>
-        <name>Box App 1</name>
-        <icon>https://example.com/icons/box1.png</icon>
-        <url>https://example.com/downloads/box1.apk</url>
-    </box>
-    <box>
-        <name>Box App 2</name>
-        <icon>https://example.com/icons/box2.png</icon>
-        <url>https://example.com/downloads/box2.apk</url>
-    </box>
-    
-    <dxvk>
-        <name>DXVK App 1</name>
-        <icon>https://example.com/icons/dxvk1.png</icon>
-        <url>https://example.com/downloads/dxvk1.apk</url>
-    </dxvk>
-    <dxvk>
-        <name>DXVK App 2</name>
-        <icon>https://example.com/icons/dxvk2.png</icon>
-        <url>https://example.com/downloads/dxvk2.apk</url>
-    </dxvk>
-    
+
+    <!-- قائمة turnip -->
     <turnip>
         <name>Turnip App 1</name>
         <icon>https://example.com/icons/turnip1.png</icon>
-        <url>https://example.com/downloads/turnip1.apk</url>
+        <url>https://example.com/turnip1</url>
     </turnip>
     <turnip>
         <name>Turnip App 2</name>
         <icon>https://example.com/icons/turnip2.png</icon>
-        <url>https://example.com/downloads/turnip2.apk</url>
+        <url>https://example.com/turnip2</url>
     </turnip>
-</packages>
+
+    <!-- قائمة dxvk -->
+    <dxvk>
+        <name>DXVK App 1</name>
+        <icon>https://example.com/icons/dxvk1.png</icon>
+        <url>https://example.com/dxvk1</url>
+    </dxvk>
+    <dxvk>
+        <name>DXVK App 2</name>
+        <icon>https://example.com/icons/dxvk2.png</icon>
+        <url>https://example.com/dxvk2</url>
+    </dxvk>
+
+    <!-- قائمة box -->
+    <box>
+        <name>Box App 1</name>
+        <icon>https://example.com/icons/box1.png</icon>
+        <url>https://example.com/box1</url>
+    </box>
+    <box>
+        <name>Box App 2</name>
+        <icon>https://example.com/icons/box2.png</icon>
+        <url>https://example.com/box2</url>
+    </box>
+</apps>
