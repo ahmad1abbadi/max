@@ -11,18 +11,21 @@
         <name>dolphin</name>
         <iconUrl>https://github.com/ahmad1abbadi/max/releases/download/aa/dolphin.png</iconUrl>
         <downloadUrl>https://github.com/ahmad1abbadi/max/releases/download/aa/dolphin_2409.apk</downloadUrl>
+        <description>Yuzu is an open-source emulator for running Nintendo Switch games on Android</description>
     </app>
     
     <app>
         <name>Sitra</name>
         <iconUrl>https://github.com/ahmad1abbadi/max/releases/download/aa/sitra.jpeg</iconUrl>
         <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
+        <description>Yuzu is an open-source emulator for running Nintendo Switch games on Android</description>
     </app>
      <app>
         <name>skyline</name>
         <iconUrl>https://github.com/ahmad1abbadi/max/releases/download/aa/skyline.png</iconUrl>
         <downloadUrl>https://github.com/ahmad1abbadi/max/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
-    </app>
+        <description>Yuzu is an open-source emulator for running Nintendo Switch games on Android</description>
+     </app>
     
     <app>
         <name>netherx2</name>
