@@ -2,9 +2,9 @@
 <apps>
     <!-- قائمة wine -->
     <wine>
-        <name>Wine App 1</name>
+        <name>Wine test 1</name>
         <icon>https://example.com/icons/wine1.png</icon>
-        <url>https://example.com/wine1</url>
+        <url>https://github.com/ahmad1abbadi/max/releases/download/test/wine-9.20-darkosx.tar.xz</url>
     </wine>
     <turnip>
         <name>Turnip App 1</name>
@@ -257,9 +257,9 @@
 
     <!-- قائمة box -->
     <box>
-        <name>Box App 1</name>
+        <name>Box test 1</name>
         <icon>https://example.com/icons/box1.png</icon>
-        <url>https://example.com/box1</url>
+        <url>https://github.com/ahmad1abbadi/max/releases/download/test/box64test.tar.xz</url>
     </box>
     <box>
         <name>Box App 2</name>
