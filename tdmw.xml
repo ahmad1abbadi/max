@@ -3,7 +3,7 @@
     <!-- قائمة wine -->
     <wine>
         <name>Wine test 1</name>
-        <icon>https://github.com/ahmad1abbadi/max/blob/main/apks/wine920.png</icon>
+        <icon>https://raw.githubusercontent.com/ahmad1abbadi/max/main/apks/wine920.pnghttps://github.com/ahmad1abbadi/max/blob/main/apks/wine920.png</icon>
         <url>https://github.com/ahmad1abbadi/max/releases/download/test/wine-9.20-darkosx.tar.xz</url>
     </wine>
     <turnip>
@@ -258,7 +258,7 @@
     <!-- قائمة box -->
     <box>
         <name>Box test 1</name>
-        <icon>https://github.com/ahmad1abbadi/max/blob/main/apks/box64test.png</icon>
+        <icon>https://raw.githubusercontent.com/ahmad1abbadi/max/refs/heads/main/apks/box64test.png</icon>
         <url>https://github.com/ahmad1abbadi/max/releases/download/test/box64test.tar.xz</url>
     </box>
     <box>
