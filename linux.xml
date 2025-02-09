@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appstore>
+    <app>
+        <name>glibc</name>
+        <iconUrl>https://raw.githubusercontent.com/ahmad1abbadi/max/refs/heads/main/apks/glibc.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/max/releases/download/test/glibc.tar.xz</downloadUrl>
+        <description>glibc is the GNU C Library, which provides the core functionality for applications in Linux.</description>
+        <command>apt-get install glibc</command>
+    </app>
+    
+    <app>
+        <name>firefox</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>Mozilla Firefox is a free and open-source web browser, known for its speed and security features.</description>
+        <command>sudo apt install firefox</command>
+    </app>
+    
+    <app>
+        <name>bionic</name>
+        <iconUrl>https://example.com/icons/app3.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
+        <description>Bionic is a C library used by the Android operating system for its system calls and functionality.</description>
+        <command>apt-get install bionic</command>
+    </app>
+
+    <app>
+        <name>proot</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/aa.apk</downloadUrl>
+        <description>Proot is a user-space implementation of chroot that allows you to run programs in a different root filesystem.</description>
+        <command>sudo apt-get install proot</command>
+    </app>
+
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>App 2 description goes here, a placeholder app for testing purposes.</description>
+        <command>install app2</command>
+    </app>
+    
+    <app>
+        <name>App 3</name>
+        <iconUrl>https://example.com/icons/app3.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
+        <description>App 3 is a sample app that demonstrates basic functionality in Android.</description>
+        <command>install app3</command>
+    </app>
+
+    <app>
+        <name>firefox</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/aa.apk</downloadUrl>
+        <description>Mozilla Firefox is an open-source web browser for private browsing, online security, and performance.</description>
+        <command>sudo apt install firefox</command>
+    </app>
+    
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>App 2 placeholder description for testing purposes.</description>
+        <command>install app2</command>
+    </app>
+
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>Another placeholder for App 2 with a different command or purpose.</description>
+        <command>install app2</command>
+    </app>
+
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>App 2 placeholder for testing apps.</description>
+        <command>install app2</command>
+    </app>
+
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>App 2 placeholder for a test app.</description>
+        <command>install app2</command>
+    </app>
+
+    <app>
+        <name>App 2</name>
+        <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
+        <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
+        <description>App 2 is used for testing purposes with a simple placeholder description.</description>
+        <command>install app2</command>
+    </app>
+</appstore>
