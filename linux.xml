@@ -9,19 +9,19 @@
     </app>
     
     <app>
+        <name>bionic</name>
+        <iconUrl>https://raw.githubusercontent.com/ahmad1abbadi/max/refs/heads/main/apks/bionic.png</iconUrl>
+        <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
+        <description>Bionic is a C library used by the Android operating system for its system calls and functionality.</description>
+        <command>apt-get install bionic</command>
+    </app>
+
+    <app>
         <name>firefox</name>
         <iconUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/Mozilla-Firefox-logo.png</iconUrl>
         <downloadUrl>https://github.com/ahmad1abbadi/darkos-Packages/releases/download/aa/XinputBridge_1.35.apk</downloadUrl>
         <description>Mozilla Firefox is a free and open-source web browser, known for its speed and security features.</description>
         <command>sudo apt install firefox</command>
-    </app>
-    
-    <app>
-        <name>bionic</name>
-        <iconUrl>https://example.com/icons/app3.png</iconUrl>
-        <downloadUrl>https://example.com/downloads/app3.apk</downloadUrl>
-        <description>Bionic is a C library used by the Android operating system for its system calls and functionality.</description>
-        <command>apt-get install bionic</command>
     </app>
 
     <app>
