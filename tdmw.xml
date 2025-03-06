@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <apps>
-    <!-- قائمة wine -->
     <wine>
         <name>Wine test 1</name>
         <icon>https://raw.githubusercontent.com/ahmad1abbadi/max/main/apks/wine920.png</icon>
         <url>https://github.com/ahmad1abbadi/max/releases/download/test/wine-9.20-darkosx.tar.xz</url>
+    </wine>
+    <wine>
+        <name>wine-10.2-staging-tkg</name>
+        <icon>https://raw.githubusercontent.com/ahmad1abbadi/max/main/apks/wine1020.png</icon>
+        <url>https://github.com/ahmad1abbadi/max/releases/download/test/wine-10.2-staging-tkg-amd64.tar.xz</url>
     </wine>
     <turnip>
         <name>Turnip App 1</name>
